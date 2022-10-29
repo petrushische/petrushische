@@ -1,1 +1,1 @@
-[![Header](https://github.com/petrushische/petrushische/blob/main/image/2018878_1.jpg)] 
+![Header](https://github.com/petrushische/petrushische/blob/main/image/2018878_1.jpg) 
